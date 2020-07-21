@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inputtrayagent.iml" filepath="$PROJECT_DIR$/inputtrayagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputtraysensoragent.iml" filepath="$PROJECT_DIR$/inputtraysensoragent.iml" />
+    </modules>
+  </component>
+</project>

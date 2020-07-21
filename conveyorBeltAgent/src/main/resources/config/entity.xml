@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<import resource="classpath:de/dailab/jiactng/agentcore/conf/AgentNode.xml" />
+	<import resource="classpath:de/dailab/jiactng/agentcore/conf/Agent.xml" />
+	<import resource="classpath:de/dailab/jiactng/agentcore/conf/JMSMessaging.xml" />
+	<import resource="classpath:GatewayConfig.xml" />
+
+	<bean name="ActuatorNode" parent="GatewayNode" scope="prototype">
+		<property name="agents">
+			<list>
+				<ref bean="DeviceAgent"/>
+			</list>
+		</property>
+	</bean>
+
+	<bean name="DeviceAgent" parent="SimpleAgent">
+		<property name="agentBeans">
+			<list>
+				<ref bean="DeviceBean"/>
+			</list>
+		</property>
+	</bean>
+
+	<bean name="DeviceBean" class="de.gtarc.chariot.conveyorbeltactuatoragent.DeviceBean">
+		<property name="logLevel" value="INFO"/>
+		<property name="executionInterval" value="3000" />
+		<property name="mqttHostURL" value="tcp://130.149.232.235:1883" />
+		<property name="mqttUsername" value="plbwvpgf" />
+		<property name="mqttPassword" value="mJTPb6z12Bag"/>
+		 <property name="mqttClientId" value="ConveyorbeltAgent"/>
+		<!-- KMS URL-->
+		<property name="kmsURL" value="http://chariot-km.dai-lab.de:8080/v1/"/>
+		<!-- Entity UUID -->
+		<property name ="entityId" value="b1f114f5-f47f-449d-b579-6605bba06110"/>
+	</bean>
+
+</beans>

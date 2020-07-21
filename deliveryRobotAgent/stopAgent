@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "deliveryRobotAgent"; then
+  screen -ls | grep -E "deliveryRobotAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep deliveryRobotAgent | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot Delivery Robot Agent stopped."
+else
+  echo "Chariot Delivery Robot Agent isn't running."
+fi

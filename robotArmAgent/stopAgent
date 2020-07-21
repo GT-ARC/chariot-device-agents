@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "robotArmAgent"; then
+  screen -ls | grep -E "robotArmAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep robotArmAgent | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot Robot Arm agent stopped."
+else
+  echo "Chariot Robot Arm agent isn't running."
+fi

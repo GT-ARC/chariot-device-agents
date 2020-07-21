@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/AgentNode.xml"/>
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/Agent.xml"/>
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/JMSMessaging.xml"/>
+    <import resource="classpath:GatewayConfig.xml" />
+
+
+    <bean name="ServiceNode" parent="GatewayNode" scope="prototype">
+<!--    <bean name="ServiceNode" parent="NodeWithJMX" scope="prototype">-->
+        <property name="agents">
+            <list>
+                <ref bean="ServiceAgent" />
+            </list>
+        </property>
+    </bean>
+
+    <bean name="ServiceAgent" parent="NonBlockingAgent" scope="prototype">
+        <property name="agentBeans">
+            <list>
+                <ref bean="ServiceBean" />
+            </list>
+        </property>
+    </bean>
+
+    <bean name="ServiceBean" class="de.gtarc.chariot.orserviceagent.ServiceBean">
+        <property name="executionInterval" value="500" />
+        <property name="logLevel" value="INFO"/>
+        <!-- MQTT settings-->
+        <property name ="mqttHostURL" value="tcp://130.149.232.235:1883" />
+        <property name ="mqttUsername" value="plbwvpgf" />
+        <property name ="mqttPassword" value="mJTPb6z12Bag" />
+<!--        <property name ="mqttClientId" value="ORServiceAgent" />-->
+        <!-- KMS URL-->
+        <property name="kmsURL" value="http://chariot-km.dai-lab.de:8080/v1/"/>
+        <!-- Entity UUID -->
+        <property name ="entityId" value="9d0262ca-9cb4-451a-8a4d-677c729caabd"/>
+
+    </bean>
+
+</beans>

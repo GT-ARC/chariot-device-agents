@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "chariotColorAgent"; then
+  screen -ls | grep -E "chariotColorAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  # ps -eo pid,command | grep conveyorbelt | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot color agent stopped."
+else
+  echo "Chariot color agent isn't running."
+fi

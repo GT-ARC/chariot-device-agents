@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1db3b0e2-1839-42a7-80e8-f2f2dcdefa3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../deliveryRobotAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chargingStationSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chargingStationSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chargingStationSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/src/main/java/de/gtarc/chariot/conveyorbeltactuatoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/src/main/java/de/gtarc/chariot/conveyorbeltactuatoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/deliverytrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/deliverytrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/stopAgent" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZjV4EyX5gIUNh9ZIFgIVTAyoTs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.gtarc.chariot.deliverytraysensoragent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/deliverytraysensoragent" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1db3b0e2-1839-42a7-80e8-f2f2dcdefa3a" name="Default Changelist" comment="" />
+      <created>1585352296302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585352296302</updated>
+      <workItem from="1585352299317" duration="465000" />
+      <workItem from="1585958353377" duration="1367000" />
+      <workItem from="1585964481721" duration="221000" />
+      <workItem from="1585964915895" duration="527000" />
+      <workItem from="1586268072708" duration="47000" />
+      <workItem from="1587074600619" duration="246000" />
+      <workItem from="1587120731576" duration="12000" />
+      <workItem from="1589549043280" duration="5000" />
+      <workItem from="1590183257710" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2602" y="182" key="#Project_Structure" timestamp="1585964615895">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2602" y="182" key="#Project_Structure/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585964615895" />
+    <state x="2680" y="278" key="#com.intellij.ide.util.MemberChooser" timestamp="1585958764465">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2680" y="278" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585958764465" />
+    <state x="2605" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585958444055">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2605" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585958444055" />
+  </component>
+</project>

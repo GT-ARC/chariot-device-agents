@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="570fa056-bba9-4fd4-b5fc-d9b48f983f87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dht11SensorAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/java/de/gtarc/chariot/threedprinter/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/java/de/gtarc/chariot/threedprinter/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/java/de/gtarc/chariot/threedprinter/StartDeviceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/java/de/gtarc/chariot/threedprinter/StartIoTEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3DPrinterAgent/ThreeDPrinterAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3DPrinterAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3DPrinterAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chargingStationSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chargingStationSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chargingStationSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../colorSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../colorSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/re/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../colorSensorAgent/src/main/java/de/gtarc/chariot/colorsensoragent/re/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../colorSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../colorSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conveyorBeltAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../conveyorBeltAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conveyorBeltAgent/src/main/java/de/gtarc/chariot/conveyorbeltactuatoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../conveyorBeltAgent/src/main/java/de/gtarc/chariot/conveyorbeltactuatoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conveyorBeltAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../../conveyorBeltAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../currentSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../currentSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/iolite/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../currentSensorAgent/src/main/java/de/gtarc/chariot/currentsensoragent/iolite/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../currentSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../currentSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryRobotAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryRobotAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryRobotAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryTrayAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryTrayAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryTrayAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryTrayAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/java/de/gtarc/chariot/deliverytrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/java/de/gtarc/chariot/deliverytrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../deliveryTrayAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht11SensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht11SensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht11SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht11SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht11SensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht11SensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht22SensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht22SensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht22SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht22SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dht22SensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dht22SensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distanceMeasuringAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../distanceMeasuringAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distanceMeasuringAgent/src/main/java/de/gtarc/chariot/distancemeasuringagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../distanceMeasuringAgent/src/main/java/de/gtarc/chariot/distancemeasuringagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distanceMeasuringAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../distanceMeasuringAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ds18b20SensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ds18b20SensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ds18b20SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ds18b20SensorAgent/src/main/java/de/gtarc/chariot/temperaturesensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ds18b20SensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ds18b20SensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/iolite/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/java/de/gtarc/chariot/hx711sensoragent1/iolite/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent1/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/iolite/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/java/de/gtarc/chariot/hx711sensoragent2/iolite/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent2/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/java/de/gtarc/chariot/hx711sensoragent3/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/java/de/gtarc/chariot/hx711sensoragent3/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/java/de/gtarc/chariot/hx711sensoragent3/iolite/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/java/de/gtarc/chariot/hx711sensoragent3/iolite/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hx711SensorAgent3/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/java/de/gtarc/chariot/infraredsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/java/de/gtarc/chariot/infraredsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/java/de/gtarc/chariot/infraredsensoragent/iolite/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/java/de/gtarc/chariot/infraredsensoragent/iolite/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredTemperatureAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredTemperatureAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/java/de/gtarc/chariot/infraredtemperatureagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/java/de/gtarc/chariot/infraredtemperatureagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../infraredTemperatureAgent/src/main/resources/registrationAPI-0.0.5-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inputTrayAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../inputTrayAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inputTrayAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inputTrayAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inputTrayAgent/src/main/java/de/gtarc/chariot/inputtrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../inputTrayAgent/src/main/java/de/gtarc/chariot/inputtrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inputTrayAgent/src/main/java/de/gtarc/chariot/inputtrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../inputTrayAgent/src/main/java/de/gtarc/chariot/inputtrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inputTrayAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inputTrayAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forceSensorAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forceSensorAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forceSensorAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forceSensorAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/infraredthermometersensor/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/infraredthermometersensor/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/jiactng.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/jiactng.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/jiactng.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/jiactng.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/jiactng.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/jiactng.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/src/main/java/de/gtarc/chariot/registeragent/RegistrationBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/src/main/java/de/gtarc/chariot/registeragent/RegistrationBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../registerAgent/src/main/java/de/gtarc/chariot/registeragent/StartDeviceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../registerAgent/src/main/java/de/gtarc/chariot/registeragent/StartRegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../robotArmAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../../robotArmAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../storageTrayAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../../storageTrayAgent/stopAgent" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8MWwoUxZWwbxN2c1DAJYSojNR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/infraredproximitysensor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570fa056-bba9-4fd4-b5fc-d9b48f983f87" name="Default Changelist" comment="" />
+      <created>1586112802214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586112802214</updated>
+      <workItem from="1586112803551" duration="580000" />
+      <workItem from="1586270506822" duration="44000" />
+      <workItem from="1589549303300" duration="15000" />
+      <workItem from="1590190759770" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

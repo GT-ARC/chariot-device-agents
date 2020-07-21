@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.dailab.jiactng.bdiAgent:owl-s-generator:5.2.2-owlapi5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/jiactng/bdiAgent/owl-s-generator/5.2.2-owlapi5-SNAPSHOT/owl-s-generator-5.2.2-owlapi5-20180308.124936-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/jiactng/bdiAgent/owl-s-generator/5.2.2-owlapi5-SNAPSHOT/owl-s-generator-5.2.2-owlapi5-20180308.124936-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dailab/jiactng/bdiAgent/owl-s-generator/5.2.2-owlapi5-SNAPSHOT/owl-s-generator-5.2.2-owlapi5-20180308.124936-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

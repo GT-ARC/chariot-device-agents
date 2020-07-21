@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcef7196-3c2f-4484-af33-bf126dc4f4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../deliveryRobotAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/chargingstationsensoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/chargingstationsensoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/java/de/gtarc/chariot/deliveryrobotactuatoragent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deliveryRobotAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../deliveryRobotAgent/stopAgent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../robotArmAgent/src/main/java/de/gtarc/chariot/robotarmagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/DeviceBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/java/de/gtarc/chariot/storagetrayagent/WSEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../storageTrayAgent/stopAgent" beforeDir="false" afterPath="$PROJECT_DIR$/../storageTrayAgent/stopAgent" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YSOGi9hasjGsifYAZeeYP6m0aY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.gtarc.chariot.chargingstationsensoragent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcef7196-3c2f-4484-af33-bf126dc4f4b5" name="Default Changelist" comment="" />
+      <created>1582932434241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582932434241</updated>
+      <workItem from="1582932435581" duration="160000" />
+      <workItem from="1582933967636" duration="2594000" />
+      <workItem from="1582939580532" duration="207000" />
+      <workItem from="1585146513895" duration="786000" />
+      <workItem from="1585167008008" duration="5748000" />
+      <workItem from="1585254870654" duration="641000" />
+      <workItem from="1585442786755" duration="1396000" />
+      <workItem from="1585963031404" duration="675000" />
+      <workItem from="1586268554946" duration="19000" />
+      <workItem from="1586268894482" duration="7000" />
+      <workItem from="1587075281412" duration="411000" />
+      <workItem from="1587120700772" duration="5000" />
+      <workItem from="1587120825549" duration="1208000" />
+      <workItem from="1589548975691" duration="10000" />
+      <workItem from="1590167725279" duration="4854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585146789657">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585146789657" />
+    <state x="1990" y="95" key="MergeDialog" timestamp="1582939661230">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1990" y="95" key="MergeDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1582939661230" />
+    <state x="2375" y="240" key="MultipleFileMergeDialog" timestamp="1582939661285">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2375" y="240" key="MultipleFileMergeDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1582939661285" />
+    <state x="2273" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1585167874359">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="519" y="349" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585146514637" />
+    <state x="2273" y="359" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585167874359" />
+  </component>
+</project>

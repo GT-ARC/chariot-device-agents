@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/infraredTemperatureAgent.iml" filepath="$PROJECT_DIR$/infraredTemperatureAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infraredTemperatureMeasuringAgent.iml" filepath="$PROJECT_DIR$/infraredTemperatureMeasuringAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infraredTemperatureSensorAgent.iml" filepath="$PROJECT_DIR$/infraredTemperatureSensorAgent.iml" />
+    </modules>
+  </component>
+</project>

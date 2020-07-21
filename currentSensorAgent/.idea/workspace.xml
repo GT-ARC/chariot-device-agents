@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="014760f7-cb22-47fe-9edf-567425364c0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/GatewayConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ble-agent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ble-agent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chargingStationSensorAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../chargingStationSensorAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colorSensorAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../colorSensorAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conveyorBeltAgent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../conveyorBeltAgent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/src/main/resources/config/entity.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZmRv7lZKqvf4LxB6E4PK3scDOD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.gtarc.chariot.currentsensoragent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/src/main/java/de/gtarc/chariot/currentsensoragent" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="StartIoTEntity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.gtarc.chariot.currentsensoragent.StartIoTEntity" />
+      <module name="currentSensorAgent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.gtarc.chariot.currentsensoragent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartIoTEntity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="014760f7-cb22-47fe-9edf-567425364c0f" name="Default Changelist" comment="" />
+      <created>1585442510877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585442510877</updated>
+      <workItem from="1585442515482" duration="6924000" />
+      <workItem from="1585848437644" duration="3857000" />
+      <workItem from="1585865729264" duration="208000" />
+      <workItem from="1585951805636" duration="526000" />
+      <workItem from="1586268673904" duration="121000" />
+      <workItem from="1586659666928" duration="56000" />
+      <workItem from="1587054763696" duration="1483000" />
+      <workItem from="1587070976347" duration="471000" />
+      <workItem from="1589549161273" duration="21000" />
+      <workItem from="1589829099563" duration="58000" />
+      <workItem from="1590183705935" duration="388000" />
+      <workItem from="1592210258790" duration="110000" />
+      <workItem from="1592309652760" duration="535000" />
+      <workItem from="1592352540580" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2722" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1585862335169">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2722" y="233" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585862335169" />
+    <state x="2341" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585443806144">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2341" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585443806144" />
+    <state width="1272" height="267" key="GridCell.Tab.0.bottom" timestamp="1586659722286">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1272" height="267" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586659722286" />
+    <state width="1272" height="267" key="GridCell.Tab.0.center" timestamp="1586659722285">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1272" height="267" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586659722285" />
+    <state width="1272" height="267" key="GridCell.Tab.0.left" timestamp="1586659722284">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1272" height="267" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586659722284" />
+    <state width="1272" height="267" key="GridCell.Tab.0.right" timestamp="1586659722286">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1272" height="267" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586659722286" />
+    <state x="2466" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1592429506001">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2466" y="356" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1592429506001" />
+  </component>
+</project>

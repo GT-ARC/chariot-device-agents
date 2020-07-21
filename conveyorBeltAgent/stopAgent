@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "conveyorBeltAgent"; then
+  screen -ls | grep -E "conveyorBeltAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep conveyorBeltAgent | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot ConveyorBelt agent stopped."
+else
+  echo "Chariot ConveyorBelt agent isn't running."
+fi

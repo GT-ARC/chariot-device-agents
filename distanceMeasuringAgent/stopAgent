@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "distanceMeasuringAgent"; then
+  screen -ls | grep -E "distanceMeasuringAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep distanceMeasuringAgent | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot Distance Measuring agent stopped."
+else
+  echo "Chariot Distance Measuring agent isn't running."
+fi

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/AgentNode.xml"/>
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/Agent.xml"/>
+    <import resource="classpath:de/dailab/jiactng/agentcore/conf/JMSMessaging.xml"/>
+    <import resource="GatewayConfig.xml" />
+
+    <bean name="SensorNode" parent="GatewayNode" scope="prototype">
+        <property name="agents">
+            <list>
+                <ref bean="DeviceAgent"/>
+            </list>
+        </property>
+    </bean>
+
+    <bean name="DeviceAgent" parent="SimpleAgent">
+        <property name="agentBeans">
+            <list>
+                <ref bean="DeviceBean"/>
+            </list>
+        </property>
+    </bean>
+
+    <bean name="DeviceBean" class="de.gtarc.chariot.currentsensoragent.DeviceBean">
+        <property name="logLevel" value="INFO"/>
+        <property name="executionInterval" value="2000" />
+        <!-- MQTT settings-->
+<!--        <property name ="mqttHostURL" value="tcp://130.149.232.235:1883" />-->
+        <property name ="mqttHostURL" value="tcp://localhost:1883" />
+        <property name ="mqttUsername" value="plbwvpgf" />
+        <property name ="mqttPassword" value="mJTPb6z12Bag" />
+        <property name ="mqttClientId" value="currentSensorAgent" />
+        <!-- KMS URL-->
+<!--        <property name="kmsURL" value="http://chariot-km.dai-lab.de:8080/v1/"/>-->
+        <property name="kmsURL" value="http://localhost:8080/v1/"/>
+        <!-- Entity UUID -->
+        <property name ="entityId" value="9d0262ca-9cb4-451a-8a4d-677c723caabd"/>
+    </bean>
+
+</beans>

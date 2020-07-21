@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb5a962-075f-48e6-be9c-01c51aed1bfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ble-agent/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceCharacteristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ble-agent/src/main/java/de/gtarc/chariot/deliverytrayagent/DeviceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ORServiceAgent/src/main/resources/config/entity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ORServiceAgent/src/main/resources/config/entity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/../registerAgent/jiactng.log.3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YSLWcUCBtJkoLIZOGm0FOEVyvT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/agentconfigs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.gtarc.chariot.colorsensoragent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.gtarc.chariot.colorsensoragent.standalone" />
+      <recent name="de.gtarc.chariot.colorsensoragent.iolite" />
+      <recent name="de.gtarc.chariot.colorsensoragent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/conf" />
+      <recent name="$PROJECT_DIR$/src/main/resources/agentconfigs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb5a962-075f-48e6-be9c-01c51aed1bfc" name="Default Changelist" comment="" />
+      <created>1582931081350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582931081350</updated>
+      <workItem from="1582931083130" duration="490000" />
+      <workItem from="1585006399611" duration="252000" />
+      <workItem from="1585084716894" duration="1113000" />
+      <workItem from="1585445068108" duration="536000" />
+      <workItem from="1585657416442" duration="7261000" />
+      <workItem from="1585733612364" duration="125000" />
+      <workItem from="1585838373585" duration="10123000" />
+      <workItem from="1585919078691" duration="1303000" />
+      <workItem from="1585940672043" duration="4503000" />
+      <workItem from="1585958368831" duration="2000" />
+      <workItem from="1585958380047" duration="5972000" />
+      <workItem from="1585965937259" duration="539000" />
+      <workItem from="1586052112632" duration="350000" />
+      <workItem from="1586092971782" duration="1441000" />
+      <workItem from="1586118884334" duration="1109000" />
+      <workItem from="1586121094577" duration="6000" />
+      <workItem from="1586121132045" duration="245000" />
+      <workItem from="1586121492102" duration="13000" />
+      <workItem from="1586126035290" duration="722000" />
+      <workItem from="1586128132926" duration="424000" />
+      <workItem from="1586192634225" duration="32000" />
+      <workItem from="1586193039288" duration="531000" />
+      <workItem from="1586251939949" duration="2923000" />
+      <workItem from="1587072586685" duration="587000" />
+      <workItem from="1588904641458" duration="3734000" />
+      <workItem from="1588973624212" duration="856000" />
+      <workItem from="1588983790607" duration="2166000" />
+      <workItem from="1589021443879" duration="1620000" />
+      <workItem from="1589039872711" duration="2754000" />
+      <workItem from="1589548991617" duration="20000" />
+      <workItem from="1589829403747" duration="479000" />
+      <workItem from="1590187780042" duration="289000" />
+      <workItem from="1591746535670" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2191" y="213" key="#Project_Structure" timestamp="1589829409533">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2191" y="213" key="#Project_Structure/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1589829409533" />
+    <state x="2146" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1589021482593">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2146" y="253" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1589021482593" />
+    <state x="2529" y="403" width="464" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587072801875">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2529" y="403" width="464" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1587072801875" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585085969287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585085969287" />
+    <state width="1467" height="135" key="GridCell.Tab.0.bottom" timestamp="1585733476877">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1467" height="135" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585733476877" />
+    <state width="1467" height="280" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585661252827" />
+    <state width="1467" height="135" key="GridCell.Tab.0.center" timestamp="1585733476877">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1467" height="135" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585733476877" />
+    <state width="1467" height="280" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585661252826" />
+    <state width="1467" height="135" key="GridCell.Tab.0.left" timestamp="1585733476876">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1467" height="135" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585733476876" />
+    <state width="1467" height="280" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585661252825" />
+    <state width="1467" height="135" key="GridCell.Tab.0.right" timestamp="1585733476877">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1467" height="135" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585733476877" />
+    <state width="1467" height="280" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585661252826" />
+    <state x="1786" y="265" key="RollbackChangesDialog" timestamp="1585940156790">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1786" y="265" key="RollbackChangesDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585940156790" />
+    <state x="2319" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1591746535834">
+      <screen x="1680" y="23" width="1920" height="1029" />
+    </state>
+    <state x="639" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585084716980" />
+    <state x="559" y="377" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585733612140" />
+    <state x="2319" y="377" key="com.intellij.ide.util.TipDialog/1680.23.1920.1029/0.23.1680.1027@1680.23.1920.1029" timestamp="1591746535834" />
+    <state x="559" y="362" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586262906586" />
+    <state x="2319" y="387" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1588973744535" />
+    <state x="2720" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1586268926898">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2720" y="250" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586268926898" />
+  </component>
+</project>

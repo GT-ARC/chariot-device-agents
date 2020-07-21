@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "inputTrayAgent"; then
+  screen -ls | grep -E "inputTrayAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep inputTrayAgent | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot Input Tray agent stopped."
+else
+  echo "Chariot Input Tray agent isn't running."
+fi

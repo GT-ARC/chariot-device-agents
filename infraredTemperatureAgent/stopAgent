@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if screen -list | grep -q "infraredTemperatureMeasuringAgent"; then
+  screen -ls | grep -E "infraredTemperatureMeasuringAgent" | cut -d. -f1 | awk '{print }' | xargs kill 2> /dev/null
+  ps -eo pid,command | grep infraredTemperatureMeasuring | grep -v grep | awk '{system("sudo kill -9 " $1)}'
+    echo "Chariot Infrared Temperature agent stopped."
+else
+  echo "Chariot Infrared Temperature agent isn't running."
+fi
