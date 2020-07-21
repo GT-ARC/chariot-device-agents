@@ -83,11 +83,6 @@ If RE takes the bridge role between agent and device, then the communication is 
 The execution of this agent considering of the aforementioned methods should be easily performed
 ` mvn clean install` command, after adjusting `resources/config/entity.xml` file, in which the path of the agent is given.
 
-### Usage
-1. compile the code, `mvn clean install`
-2. start the agent, `./startAgent` or `./target/appassembler/bin/startIoTEntity`
-3. stop the agent, `./stopAgent`  
-
 
 ## Conveyor Belt Actuator
 
@@ -646,6 +641,13 @@ The status information requested by this agent are obtained with the same way.
 
 The available functions in 3D Printer agent can be extended according to the requirements as long as OctoPrint Server supports. For the sake of the simplicity,
 only the most required functions are called in the agent implementation.
+
+## How to run agents
+
+1. compile the code, `mvn clean install`
+2. start the agent, `./startAgent` or `./target/appassembler/bin/startIoTEntity`
+3. stop the agent, `./stopAgent`  
+
 
 ## Contacts
 
